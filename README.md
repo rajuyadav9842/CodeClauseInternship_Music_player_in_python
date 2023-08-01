@@ -1,1 +1,2 @@
 # CodeClauseInternship_Music_player_in_python
+A music player in Python refers to a software application or program written in the Python programming language that allows users to play and manage music files. It provides a user-friendly interface that allows users to select and listen to their favorite songs, create playlists, control playback options, and perform other basic music-related functionalities.
